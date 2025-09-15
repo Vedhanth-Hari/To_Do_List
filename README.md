@@ -63,7 +63,7 @@ Upload to GitHub Pages for free hosting.
     </ul>
 
     <footer>
-      © 2025 H Vedhanth 21223040072. All Rights Reserved.
+      © 2025 H Vedhanth 212224240181. All Rights Reserved.
     </footer>
   </div>
 
@@ -188,7 +188,8 @@ function deleteTask(button) {
 }
 ```
 ## OUTPUT
-<img width="1919" height="1199" alt="Screenshot 2025-09-15 105229" src="https://github.com/user-attachments/assets/b0543cd0-3e67-43b6-ad2d-a5c467878ebb" />
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/bf27d99a-ce5f-43a2-aaaf-9abdc5dcbff8" />
+
 
 
 ## RESULT
